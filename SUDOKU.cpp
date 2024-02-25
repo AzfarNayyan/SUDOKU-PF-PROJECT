@@ -7,7 +7,7 @@
 #include<time.h>
 #include<fstream>
 
-
+// Azfar Nayyan @GIT HUB. 
 using namespace std;
 
 HANDLE a = GetStdHandle(STD_OUTPUT_HANDLE);
@@ -274,7 +274,7 @@ void sudokugrid()
 	cout << " SUDOKU ";
 	SetConsoleTextAttribute(a, 6);
 	cout << "__________________________________________" << endl;
-	cout << "_________________________________________________________________________________________" << endl << endl;
+	cout << "_________________________________________________________________________________________" << endl << "Azfar Nayyan @Git Hub." << endl;
 
 
 	for (int g = 1; g <= 3; g++)
